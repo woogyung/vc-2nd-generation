@@ -21,6 +21,15 @@
 
 ---
 
+### 사전 준비
+
+- 생활코딩 기초 자바스크립트 https://www.opentutorials.org/course/743
+- 알고리즘 문제 풀이 https://programmers.co.kr/learn/challenges
+
+**많이 하실수록 좋습니다!**
+
+---
+
 ### 타임라인
 
 - 사슴: 10/17 - 11/16
