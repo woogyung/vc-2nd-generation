@@ -55,6 +55,8 @@
 
 ### 과제 리스트
 
+1. [필수] 자바스크립트 [Koans](https://github.com/vanilla-coding/javascript-koans)
+
 ---
 
 ### 결제
