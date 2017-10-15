@@ -51,11 +51,13 @@
 
 ### 예제 자료
 
+#### 사슴
+
 ---
 
 ### 과제 리스트
 
-< 사슴 >
+#### 사슴
 
 1. [필수] 자바스크립트 [Koans](https://github.com/vanilla-coding/javascript-koans)
 
