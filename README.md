@@ -76,7 +76,7 @@
 
 #### 사슴
 
-1. [선택 - 10월 23일 만료] [Google Clone](https://github.com/vanilla-coding/google-clone)
+1. [선택 - 10월 23일까지] [Google Clone](https://github.com/vanilla-coding/google-clone)
 2. [필수] 자바스크립트 [Koans](https://github.com/vanilla-coding/javascript-koans)
 
 ---
