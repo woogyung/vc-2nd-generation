@@ -43,6 +43,23 @@
 
 ---
 
+### 수업 스케줄
+
+#### 사슴
+
+1. 10월 17일 화요일: Internet/Browser/Server/Client
+2. 10월 19일 목요일: HTTP/Special
+3. 10월 24일 화요일: DOM/CSSOM/CRP
+4. 10월 26일 목요일: JS Basics
+5. 10월 31일 화요일: Advanced JS 1
+6. 11월 2일 목요일: Advanced JS 2
+7. 11월 7일 화요일: Git/UNIX/AJAX
+8. 11월 9일 목요일: Event System
+9. 11월 14일 화요일: Event Loop
+10. 11월 16일 목요일: ES2015
+
+---
+
 ### 영상 자료
 
  - 사슴 수업 영상 [구글드라이브](https://goo.gl/BJraDQ)
@@ -59,7 +76,8 @@
 
 #### 사슴
 
-1. [필수] 자바스크립트 [Koans](https://github.com/vanilla-coding/javascript-koans)
+1. [선택] [Google Clone](https://github.com/vanilla-coding/google-clone)
+2. [필수] 자바스크립트 [Koans](https://github.com/vanilla-coding/javascript-koans)
 
 ---
 
