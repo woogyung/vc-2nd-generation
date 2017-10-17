@@ -27,6 +27,8 @@
 
 #### _과제 제출 가이드_
 
+- 과제 설치/제출 가이드 영상 [다운로드](https://goo.gl/GrVNxT)
+
 #### _과제 리스트_
 
 1. [선택 - 10월 22일까지] [Google Clone](https://github.com/vanilla-coding/google-clone)
