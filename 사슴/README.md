@@ -31,7 +31,9 @@
     - LTS로 설치하세요.
     - node와 npm 함께 설치됩니다.
     - 터미널에서 `node -v`그리고 `npm -v`를 통해 설치가 잘 되었는지 확인하세요.
-2. Git [Mac OS](http://sourceforge.net/projects/git-osx-installer/) [Windows](https://git-for-windows.github.io/)
+2. Git
+    - [Mac OS](http://sourceforge.net/projects/git-osx-installer/)
+    - [Windows](https://git-for-windows.github.io/)
 
 #### _과제 제출 가이드_
 
