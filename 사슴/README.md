@@ -31,7 +31,10 @@
     - LTS로 설치하세요.
     - node와 npm 함께 설치됩니다.
     - 터미널에서 `node -v`그리고 `npm -v`를 통해 설치가 잘 되었는지 확인하세요.
-2. Git
+2. Terminal
+    - [Windows](https://conemu.github.io/)
+    - Mac: 기본 설치되어있는 Terminal App을 쓰셔도 되고, [iTerm](https://www.iterm2.com/)쓰셔도 됩니다.
+3. Git
     - [Mac OS](http://sourceforge.net/projects/git-osx-installer/)
     - [Windows](https://git-for-windows.github.io/)
 
