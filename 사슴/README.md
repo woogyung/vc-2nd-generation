@@ -21,6 +21,8 @@
 
 ### 예제 자료
 
+ - Quiz 1 [BlackJack](http://jsbin.com/togojeg/edit?js,console)
+
 ---
 
 ### 과제 관련
