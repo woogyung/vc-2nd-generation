@@ -44,6 +44,7 @@
 #### _과제 제출 가이드_
 
 - 과제 설치/제출 가이드 영상 [다운로드](https://goo.gl/GrVNxT)
+- Koans 가이드 영상 [다운로드](https://goo.gl/cgYxXp)
 
 #### _과제 리스트_
 
