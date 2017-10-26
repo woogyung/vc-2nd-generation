@@ -22,6 +22,7 @@
 ### 예제 자료
 
  - Quiz 1 [BlackJack](http://jsbin.com/togojeg/edit?js,console)
+ - Quiz 2 [Sum](http://jsbin.com/buwabud/edit?js,console)
 
 ---
 
