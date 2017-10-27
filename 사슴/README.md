@@ -6,10 +6,10 @@
 4. 10월 26일 목요일: JS Basics
 5. 10월 31일 화요일: Advanced JS 1
 6. 11월 2일 목요일: Advanced JS 2
-7. 11월 7일 화요일: Git/UNIX/AJAX
+7. 11월 7일 화요일: Git/UNIX
 8. 11월 9일 목요일: Event System
 9. 11월 14일 화요일: Event Loop
-10. 11월 16일 목요일: ES2015
+10. 11월 16일 목요일: AJAX/ES2015
 
 ---
 
