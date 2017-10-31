@@ -23,6 +23,7 @@
 
  - Quiz 1 [BlackJack](http://jsbin.com/togojeg/edit?js,console)
  - Quiz 2 [Sum](http://jsbin.com/buwabud/edit?js,console)
+ - Quiz 3 [StupidString](http://jsbin.com/huxese/edit?js,console)
 
 ---
 
