@@ -24,6 +24,7 @@
  - Quiz 1 [BlackJack](http://jsbin.com/togojeg/edit?js,console)
  - Quiz 2 [Sum](http://jsbin.com/buwabud/edit?js,console)
  - Quiz 3 [StupidString](http://jsbin.com/huxese/edit?js,console)
+ - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Quiz 4 [reverseWords](http://jsbin.com/xayatom/edit?js)
 
 ---
 
@@ -51,7 +52,8 @@
 
 1. [선택 - 10월 22일까지] [Google Clone](https://github.com/vanilla-coding/google-clone)
 2. [필수 - 10월 29일까지] 자바스크립트 [Koans](https://github.com/vanilla-coding/javascript-koans)
-2. [필수 - 10월 31일까지] 자바스크립트 [기초 알고리즘 문제](https://github.com/vanilla-coding/Javascript-Basics-1)
+3. [필수 - 10월 31일까지] 자바스크립트 [기초 알고리즘 문제](https://github.com/vanilla-coding/Javascript-Basics-1)
+4. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 11월 9일까지] 자바스크립트 [중급 알고리즘 문제](https://github.com/vanilla-coding/Javascript-Basics-3)
 
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
