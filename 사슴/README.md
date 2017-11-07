@@ -24,7 +24,8 @@
  - Quiz 1 [BlackJack](http://jsbin.com/togojeg/edit?js,console)
  - Quiz 2 [Sum](http://jsbin.com/buwabud/edit?js,console)
  - Quiz 3 [StupidString](http://jsbin.com/huxese/edit?js,console)
- - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Quiz 4 [reverseWords](http://jsbin.com/xayatom/edit?js)
+ - Quiz 4 [reverseWords](http://jsbin.com/xayatom/edit?js)
+ - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [MissingElement](http://jsbin.com/nucuzah/edit?js)
 
 ---
 
