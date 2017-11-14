@@ -56,7 +56,9 @@
 2. [필수 - 10월 29일까지] 자바스크립트 [Koans](https://github.com/vanilla-coding/javascript-koans)
 3. [필수 - 10월 31일까지] 자바스크립트 [기초 알고리즘 문제](https://github.com/vanilla-coding/Javascript-Basics-1)
 4. [필수 - 11월 9일까지] 자바스크립트 [중급 알고리즘 문제](https://github.com/vanilla-coding/Javascript-Basics-3)
-5. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 11월 19일까지] [시계 만들기](https://github.com/vanilla-coding/vanilla-clock)
+5. [필수 - 11월 19일까지] [시계 만들기](https://github.com/vanilla-coding/vanilla-clock)
+6. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [선택 - 12월 3일까지] [함수 구현](https://github.com/vanilla-coding/vanilla-utils)
+7. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [선택 - 12월 3일까지] [달력 만들기](https://github.com/vanilla-coding/vanilla-calendar)
 
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
