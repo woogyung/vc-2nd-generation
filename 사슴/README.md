@@ -27,7 +27,8 @@
  - Quiz 4 [reverseWords](http://jsbin.com/xayatom/edit?js)
  - Quiz 5 [MissingElement](http://jsbin.com/nucuzah/edit?js)
  - Quiz 6 [primeNumber](http://jsbin.com/quwaqe/edit?js)
- - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Quiz 7](http://jsbin.com/wohopoh/edit?html,css,js,output)
+ - [Quiz 7](http://jsbin.com/wohopoh/edit?html,css,js,output)
+ - [Quiz 8](http://jsbin.com/vogomus/2/edit?html,js,output)
 
 ---
 
