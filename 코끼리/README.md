@@ -37,6 +37,13 @@
 
 ---
 
+### 과제 리스트
+
+- [과제 1](https://github.com/vanilla-coding/ums/blob/v0-vanilla/README.md) `v0-vanilla` 브랜치 12월 26일까지
+- [과제 2](https://github.com/vanilla-coding/ums/blob/v2-oop2/README.md) `v2-oop2` 브랜치 12월 26일까지
+
+---
+
 ### 과제 관련
 
 #### _설치해야할 프로그램_
