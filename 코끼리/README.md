@@ -21,6 +21,14 @@
 
 ### 예제 자료
 
+- [Object Literals](http://jsbin.com/nobore/edit?js,console)
+- [IIFE 1](http://jsbin.com/dabaxaz/edit?js,console)
+- [IIFE 2](http://jsbin.com/fobazu/edit?js,console)
+- [IIFE 3](http://jsbin.com/telonaf/edit?js,console)
+- [Singleton](http://jsbin.com/vumiva/edit?js,console)
+- [Behavior Delegation](http://jsbin.com/zuxumub/edit?js,console)
+- [Mixin](http://jsbin.com/yuqowij/edit?js,console)
+
 ---
 
 ### 과제 관련
