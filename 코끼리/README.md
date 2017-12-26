@@ -35,6 +35,7 @@
 
 - [Piano](http://jsbin.com/figizag/5/edit?output)
 - [Stack](http://jsbin.com/wobeboq/1/edit?js,console)
+- [Ratings](http://jsbin.com/dojolud/edit?output)
 
 ---
 
