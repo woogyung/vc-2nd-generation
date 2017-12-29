@@ -45,6 +45,7 @@
 - [과제 1](https://github.com/vanilla-coding/ums/blob/v0-vanilla/README.md) `v0-vanilla` 브랜치 12월 26일까지
 - [과제 2](https://github.com/vanilla-coding/ums/blob/v2-oop2/README.md) `v2-oop2` 브랜치 12월 26일까지
 - [과제 3](https://github.com/vanilla-coding/ums/blob/v3-mvc/README.md) `v3-mvc` 브랜치 12월 28일까지
+- [과제 4](https://github.com/vanilla-coding/ums/blob/v4-routing/README.md) `v4-routing` 브랜치 1월 6일까지
 
 ---
 
