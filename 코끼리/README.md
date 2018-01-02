@@ -37,6 +37,7 @@
 - [Stack](http://jsbin.com/wobeboq/1/edit?js,console)
 - [Ratings](http://jsbin.com/dojolud/edit?output)
 - [영구없다](http://jsbin.com/buqoze/4/edit?output)
+- [characterFrequency](http://jsbin.com/gumizak/2/edit?js)
 
 ---
 
