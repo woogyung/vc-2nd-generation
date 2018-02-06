@@ -25,6 +25,8 @@
 
 ### 수업 영상 자료
 
+[Google Drive](https://goo.gl/wqcjFK)
+
 ---
 
 ### 예제 자료
@@ -44,6 +46,7 @@
 - 과제 3: [NSS-Client](https://github.com/vanilla-coding/nss-client/blob/v2-login/README.md) `v2-login`
 - 과제 4: [NSS-Client](https://github.com/vanilla-coding/nss-client/blob/v4-router/README.md) `v4-router`
 - 최종 과제: [Chat Simulator](https://github.com/vanilla-coding/chat-simulator) Redux & React
+- 구정 연휴 특별 과제: [recast.ly](https://github.com/vanilla-coding/recast.ly)
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
 
