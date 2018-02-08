@@ -4,21 +4,21 @@
 |----|-----------------|-----------------------------|
 | 1  | 2월 6일 화요일  | React Basics 1         |
 | 2  | 2월 8일 목요일  | React Basics 2         |
-| 3  | 2월 10일 토요일  | Special Time 1              |
-| 4  | 2월 13일 화요일 | React Basics 3 (**과제 1 제출 마감**) |
+| 3  | 2월 10일 토요일  | React Basics 3 (**과제 1 제출 마감**)              |
+| 4  | 2월 13일 화요일 | React Project 1 |
 |    | 2월 15일 목요일 | 구정 연휴                   |
 |    | 2월 17일 토요일 | 구정 연휴                   |
-| 5  | 2월 20일 화요일 | React Project 1 |
-| 6  | 2월 22일 목요일 | React Project 2       |
-| 7  | 2월 24일 토요일 | React Project 3              |
-| 8  | 2월 27일 화요일 | React Project 4    (**과제 2, 3 제출 마감**)  |
-| 9  | 3월 1일 목요일 | Node Basics          |
-| 10 | 3월 3일 토요일  | Express Basics 1                        |
-| 11 | 3월 6일 화요일  | Express Basics 2       (**과제 4 제출 마감**)   |
-| 12 | 3월 8일 목요일  | React Router                  |
-| 13 | 3월 10일 토요일  | Redux 1                      |
-| 14 | 3월 13일 화요일 | Redux 2 |
-| 15 | 3월 15일 목요일 | React Native |
+| 5  | 2월 20일 화요일 | React Project 2 |
+| 6  | 2월 22일 목요일 | React Project 3       |
+| 7  | 2월 24일 토요일 | React Project 4              |
+| 8  | 2월 27일 화요일 | Node Basics    (**과제 2, 3 제출 마감**)  |
+| 9  | 3월 1일 목요일 | Express Basics 1          |
+| 10 | 3월 3일 토요일  | Express Basics 2                        |
+| 11 | 3월 6일 화요일  | React Router       (**과제 4 제출 마감**)   |
+| 12 | 3월 8일 목요일  | Redux 1                  |
+| 13 | 3월 10일 토요일  | Redux 2                      |
+| 14 | 3월 13일 화요일 | React Native |
+| 15 | 3월 15일 목요일 | Testing Strategy |
 |    | 3월 20일 화요일 | **최종 과제 제출 마감** |
 
 ---
