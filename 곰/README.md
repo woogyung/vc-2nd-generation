@@ -31,6 +31,8 @@
 
 ### 예제 자료
 
+- [Event Mixin](http://jsbin.com/tukadib/1/edit?js,output)
+
 ---
 
 ### 퀴즈 자료
