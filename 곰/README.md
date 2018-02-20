@@ -33,6 +33,7 @@
 
 - [Event Mixin](http://jsbin.com/tukadib/1/edit?js,output)
 - [throttle](http://jsbin.com/qutozogura/edit?js,console)
+- [getElementsByClassName](http://jsbin.com/xuruziwafa/edit?html,js)
 
 ---
 
