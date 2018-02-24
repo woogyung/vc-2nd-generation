@@ -35,6 +35,7 @@
 - [throttle](http://jsbin.com/qutozogura/edit?js,console)
 - [getElementsByClassName](http://jsbin.com/xuruziwafa/edit?html,js)
 - [isAnagram](http://jsbin.com/huyuhowozu/edit?js,console)
+- [runLength](http://jsbin.com/nuburug/edit?js,console)
 
 ---
 
