@@ -37,6 +37,7 @@
 - [isAnagram](http://jsbin.com/huyuhowozu/edit?js,console)
 - [runLength](http://jsbin.com/nuburug/edit?js,console)
 - [async](http://jsbin.com/tadubud/edit?js,console)
+- [coinCalculator](http://jsbin.com/laqiri/edit?js,console)
 
 ---
 
