@@ -38,6 +38,7 @@
 - [runLength](http://jsbin.com/nuburug/edit?js,console)
 - [async](http://jsbin.com/tadubud/edit?js,console)
 - [coinCalculator](http://jsbin.com/laqiri/edit?js,console)
+- [merge](http://jsbin.com/foqurez/edit?js)
 
 ---
 
